@@ -1,2 +1,11 @@
 openai==0.28.0
-classy_classification
+#classy_classification
+flask
+numpy
+langchain
+matplotlib
+plotly
+pandas
+scipy
+scikit-learn
+tiktoken
