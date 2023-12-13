@@ -1,0 +1,97 @@
+{
+  "createdTime": "2020-10-24T08:05:19.641Z",
+  "modifiedTime": "2022-08-25T14:54:18.834Z",
+  "historyEnabled": false,
+  "deviceSettings": [{
+    "deviceTag": -884607986,
+    "reportingEnabled": false,
+    "devicePrettyName": "SM-G955N",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2023-12-02T16:13:42.405Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2023-12-02T16:13:42.405Z"
+    },
+    "androidOsLevel": 25,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "SM-G955N",
+      "device": "dream2lteks",
+      "model": "SM-G955N",
+      "isLowRam": false
+    }
+  }, {
+    "deviceTag": 1235169337,
+    "reportingEnabled": false,
+    "devicePrettyName": "SM-S906N",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2023-11-11T14:40:05.806Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2023-11-11T14:40:05.806Z"
+    },
+    "androidOsLevel": 28,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "SM-S906N",
+      "device": "star2qltechn",
+      "model": "SM-S906N",
+      "isLowRam": false
+    }
+  }, {
+    "deviceTag": -2010988941,
+    "reportingEnabled": false,
+    "devicePrettyName": "SM-G9880",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2023-10-20T09:37:36.184Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2023-10-20T09:37:36.184Z"
+    },
+    "androidOsLevel": 28,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "SM-G9880",
+      "device": "marlin",
+      "model": "SM-G9880",
+      "isLowRam": false
+    }
+  }, {
+    "deviceTag": 926093488,
+    "reportingEnabled": false,
+    "devicePrettyName": "SM-N950N",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2023-08-14T04:16:11.087Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2023-08-14T04:16:11.087Z"
+    },
+    "androidOsLevel": 25,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "dream2qltezh",
+      "device": "dream2qltechn",
+      "model": "SM-N950N",
+      "isLowRam": false
+    }
+  }, {
+    "deviceTag": 855666566,
+    "reportingEnabled": false,
+    "legalCountryCode": "vn",
+    "devicePrettyName": "iPhone",
+    "platformType": "IOS",
+    "deviceCreationTime": "2022-08-25T14:54:18.834Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2022-08-25T14:54:18.834Z"
+    },
+    "iosVersion": "16.7.1",
+    "deviceSpec": {
+      "device": "iPhone14,5"
+    }
+  }],
+  "latestLocationHistorySettingChange": {
+    "historyEnabledModificationTime": "2020-10-24T08:05:19.641Z"
+  },
+  "hasReportedLocations": false,
+  "hasSetRetention": false
+}

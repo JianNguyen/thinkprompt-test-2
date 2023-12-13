@@ -1,0 +1,47 @@
+{
+    "Device Info": [
+        {
+            "sync_user_agent": "Chrome WIN 109.0.5414.120 (772095164c7d5d4e73160f858efed3b5e87eca83-refs/branch-heads/5414@{#1458}) channel(stable)",
+            "device_type": "TYPE_WIN",
+            "chrome_version_info": {"version_number": "109.0.5414.120"},
+            "signin_scoped_device_id": "c0543aa9-1d1d-49ca-be7e-16e1cc54f343",
+            "manufacturer": "ASUS",
+            "cache_guid": "2T1MMWnrHPBWhZZsGt8vQA==",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": true},
+            "invalidation_fields": {
+                        "instance_id_token": "eX73wRwa2uY:APA91bFfmAfeK9LjRKHNXuvmi1YvCPn5vX0_08-LPtQytxkmSA6JhertUzm-FZ7T4qLI3xJM_AURHRzWmF5dTnLXzCFJoylXXprxwj536fGyrxqANUUcjqM-flXTVMcbjlbK241_xRx3",
+                        "interested_data_type_ids": [
+                                    45873,
+                                    306270,
+                                    154522,
+                                    601980
+                        ]
+            },
+            "last_updated_timestamp": 1697867724383,
+            "model": "All Series",
+            "client_name": "All Series",
+            "chrome_version": "109.0.5414.120"
+},
+        {
+            "sync_user_agent": "Chrome WIN 109.0.5414.120 (772095164c7d5d4e73160f858efed3b5e87eca83-refs/branch-heads/5414@{#1458}) channel(stable)",
+            "device_type": "TYPE_WIN",
+            "chrome_version_info": {"version_number": "109.0.5414.120"},
+            "signin_scoped_device_id": "0e073fa7-f0f1-4d9d-95cd-34a34f340a8d",
+            "manufacturer": "ASUS",
+            "cache_guid": "R1X7sZA7RNsX3dWWc9KFTw==",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": true},
+            "invalidation_fields": {"interested_data_type_ids": [
+                        45873,
+                        306270,
+                        154522,
+                        601980
+            ]},
+            "last_updated_timestamp": 1697797051688,
+            "model": "All Series",
+            "client_name": "All Series",
+            "chrome_version": "109.0.5414.120"
+}
+    ]
+}

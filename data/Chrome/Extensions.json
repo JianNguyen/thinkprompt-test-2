@@ -1,0 +1,23 @@
+{
+    "Extensions": [
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "id": "cfhdojbkjhnklbpkdaibdccddilifddb",
+            "version": "3.12",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "id": "eppiocemhmnlbhjplcgkofciiegomcon",
+            "version": "2.4.1",
+            "enabled": true
+}
+    ],
+    "Extension Settings": []
+}

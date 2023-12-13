@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:giangngyh@gmail.com
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+DTSTART:20230330T063000Z
+DTEND:20230330T073000Z
+DTSTAMP:20231208T174150Z
+ORGANIZER;CN=hr@goldenowl.asia:mailto:hr@goldenowl.asia
+UID:2r5b45r866d322vovn73vrkkv6@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=phil@g
+ oldenowl.asia;X-NUM-GUESTS=0:mailto:phil@goldenowl.asia
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ stin@goldenowl.asia;X-NUM-GUESTS=0:mailto:justin@goldenowl.asia
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=gi
+ angngyh@gmail.com;X-NUM-GUESTS=0:mailto:giangngyh@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hr@gol
+ denowl.asia;X-NUM-GUESTS=0:mailto:hr@goldenowl.asia
+X-GOOGLE-CONFERENCE:https://meet.google.com/fyn-bare-zhn
+CREATED:20230329T105935Z
+DESCRIPTION:Dear <b>Mr. Hoang Giang\,</b><p>As a result of your application
+  for the position of <b>AI Integration Specialist</b>\, we would like to in
+ vite you to attend an interview with the following details:</p><p>Time:<b> 
+ 01:30 PM Thursday\, Mar 30\, 2022</b></p><p>Video call link: <a href="https
+ ://meet.google.com/fyn-bare-zhn">https://meet.google.com/fyn-bare-zhn</a><b
+ r></p>Phone number: <b>0357186576</b><p>If the date or time of the intervie
+ w is inconvenient\, please contact us by phone or email (<a href="mailto:hr
+ @goldenowl.asia"><u><u><u><u><u><u><u><u><u><u><u><u><u><u>hr@goldenowl.asi
+ a</u></u></u></u></u></u></u></u></u></u></u></u></u></u></a>) to arrange a
+ nother appointment. We look forward to seeing you.</p><p>Best regards\,</p>
+ <p>HR Department.<br><br><a href="https://drive.google.com/file/d/1CZC220hp
+ 407rwyiTjC3qNxDAMMV16O_L/view?usp=sharing">CV</a></p>\n\n-::~:~::~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin
+  with Google Meet: https://meet.google.com/fyn-bare-zhn\nOr dial: (US) +1 2
+ 19-213-9932 PIN: 135542720#\nMore phone numbers: https://tel.meet/fyn-bare-
+ zhn?pin=2164750545711&hs=7\n\nLearn more about Meet at: https://support.goo
+ gle.com/a/users/answer/9282720\n\nPlease do not edit this section.\n-::~:~:
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~
+ :~::-
+LAST-MODIFIED:20230330T031352Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:[Golden Owl] Nguyen Hoang Giang - AI Integration Specialist
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230406T020000Z
+DTEND:20230406T030000Z
+DTSTAMP:20231208T174150Z
+ORGANIZER;CN=hr@goldenowl.asia:mailto:hr@goldenowl.asia
+UID:3as3qne1oaf8lqrfjeq35i4a85@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ph
+ il@goldenowl.asia;X-NUM-GUESTS=0:mailto:phil@goldenowl.asia
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ stin@goldenowl.asia;X-NUM-GUESTS=0:mailto:justin@goldenowl.asia
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=giangn
+ gyh@gmail.com;X-NUM-GUESTS=0:mailto:giangngyh@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hr@gol
+ denowl.asia;X-NUM-GUESTS=0:mailto:hr@goldenowl.asia
+CREATED:20230404T064049Z
+DESCRIPTION:Dear <b>Hoang Giang\,</b> <br><br>It is our pleasure to welcome
+  you to Golden Owl Consulting Company. We hope to see you at <b>9:00 AM\, A
+ pril 06\, 2023</b>. <br><br>Please contact us if you need any support: 0904
+ 349308 (Ms. Leah)<br><br>We are all looking forward to welcoming you onboar
+ d!<br><br>GO HR Department.
+LAST-MODIFIED:20230404T071933Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[First day] Nguyen Hoang Giang - AI Integration Specialist
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231207T040000Z
+DTEND:20231207T050000Z
+DTSTAMP:20231208T174150Z
+ORGANIZER;CN=nhientt@thinkprompt.com:mailto:nhientt@thinkprompt.com
+UID:0122anvh0k6mde2h222uofnr3q@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dy@thinkprompt.com;X-NUM-GUESTS=0:mailto:andy@thinkprompt.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=gi
+ angngyh@gmail.com;X-NUM-GUESTS=0:mailto:giangngyh@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nhient
+ t@thinkprompt.com;X-NUM-GUESTS=0:mailto:nhientt@thinkprompt.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/wsx-aqvh-xmd
+CREATED:20231205T031313Z
+DESCRIPTION:<i>Dear <b>Mr. Nguyen Hoang Giang\,</b></i><br><b><i><br></i></
+ b><br>Greeting from <b>ThinkPrompt</b>\,<br><br>We would like to invite you
+  to join our interview as the following schedule:<br><br>* <b>Date: </b> 7t
+ h December\, 2023<br><br>*<b> Time:</b>  11:00 AM<br><br>* <b>Interviewer:<
+ /b> Mr. Tran Vu Anh - Founder <a href="https://www.linkedin.com/in/andytran
+ -ai/">| LinkedIn</a><br><br>* <b>Link google meet:</b> meet.google.com/wsx-
+ aqvh-xmd<br><br>Please confirm your availability for the scheduled intervie
+ w time so that we can make necessary arrangements.<br> <br>If you have any 
+ concerns\, please feel free to contact me. We are looking forward to receiv
+ ing confirmation from you.<br><br><br><i>Thank you and best regards\,</i><b
+ r><br>----------<br><p>Nhien Tran (Ms.)</p><p><i>HR Administrative</i></p><
+ p><br></p><p></p><p><b>THINKPROMPT COMPANY LIMITED</b></p><p><i>21 Nguyen T
+ rung Ngan\, Ben Nghe Ward\, District 1\, HCMC</i></p><p><i>Tel:   097119965
+ 1<u></u><u></u></i></p><p><i>Email: <a href="mailto:nhientt@thinkprompt.com
+ "><u><u><u><u><u>nhientt@thinkprompt.com</u></u></u></u></u></a></i></p>\n\
+ n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/wsx-aqvh-xmd\
+ nOr dial: (US) +1 202-838-7664 PIN: 320384809#\nMore phone numbers: https:/
+ /tel.meet/wsx-aqvh-xmd?pin=7915089722012&hs=7\n\nLearn more about Meet at: 
+ https://support.google.com/a/users/answer/9282720\n\nPlease do not edit thi
+ s section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20231207T033922Z
+LOCATION:
+SEQUENCE:1
+STATUS:CANCELLED
+SUMMARY:[ThinkPrompt/Interview] AI Engineer - Mr. Hoang Giang
+TRANSP:OPAQUE
+ATTACH;FILENAME=24. Nguyen Hoang Giang - AI.pdf;FMTTYPE=application/pdf:htt
+ ps://drive.google.com/open?id=1MvNccia1YRQX3_eHk7mLrqhcf9KRSire&authuser=1
+END:VEVENT
+END:VCALENDAR

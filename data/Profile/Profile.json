@@ -1,0 +1,14 @@
+{
+  "name": {
+    "givenName": "Hoàng Giang",
+    "familyName": "Nguyễn",
+    "formattedName": "Hoàng Giang Nguyễn"
+  },
+  "displayName": "Hoàng Giang Nguyễn",
+  "emails": [{
+    "value": "giangngyh@gmail.com"
+  }],
+  "gender": {
+    "type": "male"
+  }
+}

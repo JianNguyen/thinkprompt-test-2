@@ -1,0 +1,61 @@
+{
+    "Browser History": [],
+    "Typed Url": [],
+    "Session": [
+        {
+            "header": {
+                        "device_type": "TYPE_WIN",
+                        "window": [{
+                                    "selected_tab_index": -1,
+                                    "tab": [2],
+                                    "browser_type": "TYPE_TABBED",
+                                    "window_id": 1
+                        }],
+                        "client_name": "DESKTOP-05K7FQ7"
+            },
+            "session_tag": "lQpn48dzjY8vTEgvoSv5MQ=="
+},
+        {
+            "tab_node_id": 1,
+            "tab": {
+                        "current_navigation_index": 0,
+                        "tab_id": 2,
+                        "pinned": false,
+                        "navigation": [{
+                                    "navigation_from_address_bar": false,
+                                    "unique_id": 1,
+                                    "favicon_url": "https://www.google.com/favicon.ico",
+                                    "navigation_forward_back": false,
+                                    "http_status_code": 200,
+                                    "navigation_chain_end": false,
+                                    "global_id": 13286472138718392,
+                                    "replaced_navigation": {
+                                                "first_page_transition": "AUTO_TOPLEVEL",
+                                                "first_committed_url": "https://www.google.com/",
+                                                "first_timestamp_msec": 1641998538209
+                                    },
+                                    "page_transition": "AUTO_TOPLEVEL",
+                                    "task_id": 13286472138209970,
+                                    "title": "Google",
+                                    "timestamp_msec": 1641998538718,
+                                    "navigation_chain_start": false,
+                                    "password_state": "PASSWORD_STATE_UNKNOWN",
+                                    "referrer": "",
+                                    "virtual_url": "https://www.google.com/",
+                                    "is_restored": false,
+                                    "correct_referrer_policy": 6,
+                                    "navigation_home_page": false,
+                                    "ancestor_task_id": [
+                                                13286472138209970,
+                                                -1
+                                    ]
+                        }],
+                        "extension_app_id": "",
+                        "browser_type": "TYPE_TABBED",
+                        "window_id": 1,
+                        "tab_visual_index": 0
+            },
+            "session_tag": "lQpn48dzjY8vTEgvoSv5MQ=="
+}
+    ]
+}

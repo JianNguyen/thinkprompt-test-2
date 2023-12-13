@@ -1,0 +1,102 @@
+[{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "No carrier",
+      "playStoreClientVersion": 83841910,
+      "manufacturer": "samsung",
+      "modelName": "SM-N950N",
+      "deviceName": "dream2qltechn",
+      "productName": "dream2qltezh",
+      "retailBrand": "samsung",
+      "totalMemoryBytes": "4294967296",
+      "nativePlatform": ["x86", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "VN",
+      "userLocale": "en_US",
+      "buildFingerprint": "samsung/z3qksx/z3q:10/QP1A.190711.020/G988NKSU1ATED:user/release-keys",
+      "androidSdkVersion": "25"
+    },
+    "dataAtTimeOfUserPlayActivity": {
+      "carrierName": "No carrier",
+      "manufacturer": "samsung",
+      "modelName": "SM-N950N",
+      "deviceName": "dream2qltechn",
+      "productName": "dream2qltezh",
+      "retailBrand": "samsung",
+      "nativePlatform": ["x86", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "VN",
+      "userLocale": "en_US",
+      "androidSdkVersion": "25"
+    },
+    "deviceRegistrationTime": "2023-08-14T04:15:44.806Z",
+    "userAddedOnDeviceTime": "2023-08-14T04:15:44.806Z",
+    "lastTimeDeviceActive": "2023-11-22T04:04:37.688838Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "No carrier",
+      "playStoreClientVersion": 83032110,
+      "manufacturer": "samsung",
+      "modelName": "SM-S906N",
+      "deviceName": "star2qltechn",
+      "productName": "SM-S906N",
+      "retailBrand": "samsung",
+      "totalMemoryBytes": "4294967296",
+      "nativePlatform": ["x86_64", "x86", "arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "VN",
+      "userLocale": "en_US",
+      "buildFingerprint": "OnePlus/OnePlus8Pro_CH/OnePlus8Pro:10/QKQ1.191222.002/2007160600:user/release-keys",
+      "androidSdkVersion": "28"
+    },
+    "dataAtTimeOfUserPlayActivity": {
+      "carrierName": "No carrier",
+      "manufacturer": "samsung",
+      "modelName": "SM-S906N",
+      "deviceName": "star2qltechn",
+      "productName": "SM-S906N",
+      "retailBrand": "samsung",
+      "nativePlatform": ["x86_64", "x86", "arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "VN",
+      "userLocale": "en_US",
+      "androidSdkVersion": "28"
+    },
+    "deviceRegistrationTime": "2023-11-11T14:40:05.649Z",
+    "userAddedOnDeviceTime": "2023-11-11T14:40:05.649Z",
+    "lastTimeDeviceActive": "2023-11-11T14:40:05.954103Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "Mobifone",
+      "playStoreClientVersion": 83032110,
+      "manufacturer": "samsung",
+      "modelName": "SM-G9880",
+      "deviceName": "marlin",
+      "productName": "SM-G9880",
+      "retailBrand": "samsung",
+      "totalMemoryBytes": "4294967296",
+      "nativePlatform": ["x86_64", "x86", "arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "VN",
+      "userLocale": "vi_VN",
+      "buildFingerprint": "OnePlus/OnePlus8Pro_CH/OnePlus8Pro:10/QKQ1.191222.002/2007160600:user/release-keys",
+      "androidSdkVersion": "28"
+    },
+    "dataAtTimeOfUserPlayActivity": {
+      "carrierName": "Mobifone",
+      "manufacturer": "samsung",
+      "modelName": "SM-G9880",
+      "deviceName": "marlin",
+      "productName": "SM-G9880",
+      "retailBrand": "samsung",
+      "nativePlatform": ["x86_64", "x86", "arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "VN",
+      "userLocale": "vi_VN",
+      "androidSdkVersion": "28"
+    },
+    "deviceRegistrationTime": "2023-10-20T09:37:40.517Z",
+    "userAddedOnDeviceTime": "2023-10-20T09:37:40.517Z",
+    "lastTimeDeviceActive": "2023-10-20T09:37:40.668338Z"
+  }
+}]

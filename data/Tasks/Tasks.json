@@ -1,0 +1,10 @@
+{
+  "kind": "tasks#taskLists",
+  "items": [{
+    "kind": "tasks#tasks",
+    "id": "MTAyMzA2MDEzODI0MjExMjY1MTU6MDow",
+    "title": "Việc cần làm của tôi",
+    "updated": "2020-10-30T15:37:16.977676Z",
+    "selfLink": "https://www.googleapis.com/tasks/v1/users/@me/lists/MTAyMzA2MDEzODI0MjExMjY1MTU6MDow"
+  }]
+}

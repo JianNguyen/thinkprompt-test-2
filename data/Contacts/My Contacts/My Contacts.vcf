@@ -1,0 +1,6 @@
+BEGIN:VCARD
+VERSION:3.0
+item1.EMAIL;TYPE=INTERNET:juancresswell@outlook.com
+item1.X-ABLabel:
+CATEGORIES:myContacts
+END:VCARD
