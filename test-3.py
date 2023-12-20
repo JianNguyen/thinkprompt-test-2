@@ -9,8 +9,8 @@ from langchain.schema import AIMessage, HumanMessage, SystemMessage
 import openai
 import tiktoken
 
-openai.api_key = "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"
-chat = ChatOpenAI(temperature=0, model='gpt-3.5-turbo', openai_api_key="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")
+openai.api_key = "yourAPI_KEY"
+chat = ChatOpenAI(temperature=0, model='gpt-3.5-turbo', openai_api_key="yourAPI_KEY")
 
 messages = [
     SystemMessage(content="You are a manager of my google account data"),
