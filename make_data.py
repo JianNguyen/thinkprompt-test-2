@@ -4,7 +4,7 @@ import json
 import os
 from tqdm import tqdm
 
-openai.api_key = "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"
+openai.api_key = "yourAPI_KEY"
 
 
 def append_to_json_file(file_path, new_objects):
