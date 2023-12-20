@@ -3,7 +3,7 @@ from flask import request, Flask, flash, redirect
 
 
 app = Flask(__name__)
-openai.api_key = "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"
+openai.api_key = "yourAPI_KEY"
 
 
 @app.get("/")
